@@ -1,2 +1,2 @@
 # ProHub
-The Lua Scripts for Pro Hub 
+The file is protected using a Lua Obfuscator and is protected from anyone's use!
